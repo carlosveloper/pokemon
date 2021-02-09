@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8900</color>
+    <color name="colorAccent">#2583ef</color>
+    <color name="colorPrimaryDark">#2583ef</color>
+
+
+    <color name="col_celeste">#2583ef</color>
+    <color name="col_gris">#CCCCCC</color>
+    <color name="col_gris_tr">#ababab</color>
+    <color name="col_grisnuevo">#6D6D6D</color>
+    <color name="col_grisfondo">#f4f4f4</color>
+    <color name="col_grissuave">#7e7e7c</color>
+    <color name="col_naranja">#ff8900</color>
+    <color name="col_naranja2">#fc9d2f</color>
+    <color name="col_negrosolida">#000000</color>
+    <color name="col_grishueso">#FAF9F9</color>
+    <color name="col_grisfuerte">#414040</color>
+    <color name="col_grissuave2">#aaaaaa</color>
+    <color name="col_White">#FFFFFF</color>
+    <color name="col_Black">#000000</color>
+    <color name="col_rojo">#DF3E3E</color>
+
+</resources>
