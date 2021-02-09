@@ -1,5 +1,8 @@
 # pokemon
 
+# apk 
+https://wetransfer.com/downloads/b4e7e173ff02c419d7a93fc9fa23942620210209173237/528ace
+
 
 ![image](https://user-images.githubusercontent.com/41177884/107401015-7397c480-6ad0-11eb-9020-19828e6edb4f.png)
 
